@@ -1,0 +1,38 @@
+.contact {
+  background-color: white;
+  min-height: 100vh;
+  padding-top: 100px;
+  color: #343a40;
+}
+
+.title {
+  color: #2c3e50;
+  font-weight: 900;
+}
+
+.line {
+  height: 4px;
+  width: 60px;
+  background-color: #2c3e50;
+  border-radius: 2px;
+}
+
+.input {
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  border-radius: 10px;
+  width: 90%;
+  box-shadow: none;
+  color: #343a40;
+}
+
+.input:focus {
+  border-color: #1abc9c;
+  outline: none;
+  box-shadow: none;
+}
+
+.label {
+  font-weight: 500;
+  color: #343a40;
+}
